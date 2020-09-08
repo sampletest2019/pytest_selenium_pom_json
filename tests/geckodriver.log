@@ -1,0 +1,10 @@
+1599592482840	geckodriver	INFO	Listening on 127.0.0.1:57035
+1599592483880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gk/rwr674k14cv5kjgd09pqz7hm0000gn/T/rust_mozprofilem65Yn1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599592486733	Marionette	INFO	Listening on port 57042
+1599592486851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599592487999	Marionette	INFO	Stopped listening on port 57042
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery, line 28: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery, line 28: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery, line 28: NS_ERROR_NOT_INITIALIZED: 
