@@ -22,11 +22,11 @@ def config(scope='session'):
 @pytest.fixture
 def browser(config):
 
-    chrome_version_win = "85"
-    chrome_version_mac = "85"
-    chrome_version_linux = "85"
-    geckodriver_version_win = "27"
-    geckodriver_version_mac = "27"
+    chrome_version_win = "88"
+    chrome_version_mac = "88"
+    chrome_version_linux = "88"
+    geckodriver_version_win = "28"
+    geckodriver_version_mac = "28"
     geckodriver_version_linux = "27"
 
     # Initialize the WebDriver instance
